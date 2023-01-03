@@ -1,13 +1,12 @@
 Province,Area Council,Unemployment Rate,Employed,Labour Force Participation Rate
-SHEFA-Urban,Port Vila,10.1 ,16263,54.9 
-SANMA-Urban,Luganville,8.0 ,5304,51.8 
 TORBA,Torres,3.1 ,62,10.2 
 TORBA,Ureparapara,0.7 ,134,47.4 
 TORBA,Motalava,1.1 ,359,34.0 
 TORBA,Vanua Lava,9.8 ,776,44.8 
 TORBA,Mota,29.7 ,25,10.1 
 TORBA,Gaua,3.5 ,989,51.9 
-TORBA,Merelava, 0.01 ,179,46.7 
+TORBA,Merelava, 0.01 ,179,46.7
+SANMA,Luganville,8.0 ,5304,51.8 
 SANMA,North West Santo,0.8 ,359,38.0 
 SANMA,North Santo,0.9 ,1647,55.3 
 SANMA,West Santo,0.2 ,946,54.2 
@@ -36,7 +35,8 @@ MALAMPA,South Malekula,4.2 ,416,16.0
 MALAMPA,North Ambrym,1.1 ,1640,73.4 
 MALAMPA,West Ambrym,1.3 ,1301,77.0 
 MALAMPA,South East Ambrym,2.1 ,376,31.1 
-MALAMPA,Paama,4.0 ,368,40.1 
+MALAMPA,Paama,4.0 ,368,40.1
+SHEFA,Port Vila,10.1 ,16263,54.9 
 SHEFA,Vermali,3.0 ,664,49.5 
 SHEFA,Vermaul,0.8 ,366,36.1 
 SHEFA,Varisu,3.6 ,53,4.6 
