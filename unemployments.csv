@@ -1,67 +1,67 @@
-Region,Province,Area Council,Unemployment Rate,Employed,Labour Force Participation Rate
-URBAN,SHEFA,Port Vila,10.1 ,16263,54.9 
-URBAN,SANMA,Luganville,8.0 ,5304,51.8 
-RURAL,TORBA,Torres,3.1 ,62,10.2 
-RURAL,TORBA,Ureparapara,0.7 ,134,47.4 
-RURAL,TORBA,Motalava,1.1 ,359,34.0 
-RURAL,TORBA,Vanua Lava,9.8 ,776,44.8 
-RURAL,TORBA,Mota,29.7 ,25,10.1 
-RURAL,TORBA,Gaua,3.5 ,989,51.9 
-RURAL,TORBA,Merelava, 0.01 ,179,46.7 
-RURAL,SANMA,North West Santo,0.8 ,359,38.0 
-RURAL,SANMA,North Santo,0.9 ,1647,55.3 
-RURAL,SANMA,West Santo,0.2 ,946,54.2 
-RURAL,SANMA,South Santo,1.9 ,2577,53.2 
-RURAL,SANMA,East Santo,2.0 ,1901,55.3 
-RURAL,SANMA,South East Santo,7.3 ,2398,56.6 
-RURAL,SANMA,Canal - Fanafo,0.2 ,2756,80.7 
-RURAL,SANMA,West Malo,1.5 ,1333,84.4 
-RURAL,SANMA,East Malo,1.0 ,988,81.9 
-RURAL,PENAMA,West Ambae,7.8 ,671,37.6 
-RURAL,PENAMA,North Ambae,1.9 ,708,42.5 
-RURAL,PENAMA,East Ambae,3.0 ,512,45.9 
-RURAL,PENAMA,South Ambae,1.2 ,572,88.0 
-RURAL,PENAMA,North Maewo,0.1 ,1378,84.1 
-RURAL,PENAMA,South Maewo,0.2 ,533,50.6 
-RURAL,PENAMA,North Pentecost,4.2 ,905,26.0 
-RURAL,PENAMA,Central Pentecost 1,1.1 ,1315,66.6 
-RURAL,PENAMA,Central Pentecost 2,0.3 ,632,22.7 
-RURAL,PENAMA,South Pentecost,13.4 ,1076,38.9 
-RURAL,MALAMPA,North West Malekula,1.1 ,2050,68.6 
-RURAL,MALAMPA,North East Malekula,2.9 ,1856,47.3 
-RURAL,MALAMPA,Central Malekula,4.5 ,1993,53.5 
-RURAL,MALAMPA,South West Malekula,1.2 ,666,30.8 
-RURAL,MALAMPA,South East Malekula,0.9 ,1107,37.3 
-RURAL,MALAMPA,South Malekula,4.2 ,416,16.0 
-RURAL,MALAMPA,North Ambrym,1.1 ,1640,73.4 
-RURAL,MALAMPA,West Ambrym,1.3 ,1301,77.0 
-RURAL,MALAMPA,South East Ambrym,2.1 ,376,31.1 
-RURAL,MALAMPA,Paama,4.0 ,368,40.1 
-RURAL,SHEFA,Vermali,3.0 ,664,49.5 
-RURAL,SHEFA,Vermaul,0.8 ,366,36.1 
-RURAL,SHEFA,Varisu,3.6 ,53,4.6 
-RURAL,SHEFA,South Epi,4.9 ,63,6.5 
-RURAL,SHEFA,North Tongoa,0.2 ,458,48.2 
-RURAL,SHEFA,Tongariki,1.0 ,382,61.4 
-RURAL,SHEFA,Makimae,10.0 ,97,15.5 
-RURAL,SHEFA,Nguna,6.5 ,202,19.6 
-RURAL,SHEFA,Emau,7.0 ,212,54.9 
-RURAL,SHEFA,Malorua,1.8 ,1256,56.5 
-RURAL,SHEFA,North Efate,4.0 ,591,29.5 
-RURAL,SHEFA,Mele,8.0 ,1971,50.5 
-RURAL,SHEFA,Ifira,31.6 ,281,48.5 
-RURAL,SHEFA,Pango,13.6 ,684,53.8 
-RURAL,SHEFA,Erakor,5.6 ,3516,50.6 
-RURAL,SHEFA,Eratap,3.2 ,2565,54.4 
-RURAL,SHEFA,Eton,2.5 ,1171,50.1 
-RURAL,TAFEA,North Erromango,5.1 ,398,44.9 
-RURAL,TAFEA,South Erromango,0.6 ,153,40.4 
-RURAL,TAFEA,Aniwa,11.3 ,55,22.5 
-RURAL,TAFEA,North Tanna,0.8 ,266,10.9 
-RURAL,TAFEA,West Tanna,4.0 ,2113,30.3 
-RURAL,TAFEA,Middle Bush Tanna,31.5 ,514,19.4 
-RURAL,TAFEA,South West Tanna,13.2 ,223,7.5 
-RURAL,TAFEA,Whitesands,31.4 ,816,27.7 
-RURAL,TAFEA,South Tanna,22.9 ,287,43.0 
-RURAL,TAFEA,Futuna,7.2 ,32,11.3 
-RURAL,TAFEA,Aneityum,1.1 ,269,31.8 
+Province,Area Council,Unemployment Rate,Employed,Labour Force Participation Rate
+SHEFA-Urban,Port Vila,10.1 ,16263,54.9 
+SANMA-Urban,Luganville,8.0 ,5304,51.8 
+TORBA,Torres,3.1 ,62,10.2 
+TORBA,Ureparapara,0.7 ,134,47.4 
+TORBA,Motalava,1.1 ,359,34.0 
+TORBA,Vanua Lava,9.8 ,776,44.8 
+TORBA,Mota,29.7 ,25,10.1 
+TORBA,Gaua,3.5 ,989,51.9 
+TORBA,Merelava, 0.01 ,179,46.7 
+SANMA,North West Santo,0.8 ,359,38.0 
+SANMA,North Santo,0.9 ,1647,55.3 
+SANMA,West Santo,0.2 ,946,54.2 
+SANMA,South Santo,1.9 ,2577,53.2 
+SANMA,East Santo,2.0 ,1901,55.3 
+SANMA,South East Santo,7.3 ,2398,56.6 
+SANMA,Canal - Fanafo,0.2 ,2756,80.7 
+SANMA,West Malo,1.5 ,1333,84.4 
+SANMA,East Malo,1.0 ,988,81.9 
+PENAMA,West Ambae,7.8 ,671,37.6 
+PENAMA,North Ambae,1.9 ,708,42.5 
+PENAMA,East Ambae,3.0 ,512,45.9 
+PENAMA,South Ambae,1.2 ,572,88.0 
+PENAMA,North Maewo,0.1 ,1378,84.1 
+PENAMA,South Maewo,0.2 ,533,50.6 
+PENAMA,North Pentecost,4.2 ,905,26.0 
+PENAMA,Central Pentecost 1,1.1 ,1315,66.6 
+PENAMA,Central Pentecost 2,0.3 ,632,22.7 
+PENAMA,South Pentecost,13.4 ,1076,38.9 
+MALAMPA,North West Malekula,1.1 ,2050,68.6 
+MALAMPA,North East Malekula,2.9 ,1856,47.3 
+MALAMPA,Central Malekula,4.5 ,1993,53.5 
+MALAMPA,South West Malekula,1.2 ,666,30.8 
+MALAMPA,South East Malekula,0.9 ,1107,37.3 
+MALAMPA,South Malekula,4.2 ,416,16.0 
+MALAMPA,North Ambrym,1.1 ,1640,73.4 
+MALAMPA,West Ambrym,1.3 ,1301,77.0 
+MALAMPA,South East Ambrym,2.1 ,376,31.1 
+MALAMPA,Paama,4.0 ,368,40.1 
+SHEFA,Vermali,3.0 ,664,49.5 
+SHEFA,Vermaul,0.8 ,366,36.1 
+SHEFA,Varisu,3.6 ,53,4.6 
+SHEFA,South Epi,4.9 ,63,6.5 
+SHEFA,North Tongoa,0.2 ,458,48.2 
+SHEFA,Tongariki,1.0 ,382,61.4 
+SHEFA,Makimae,10.0 ,97,15.5 
+SHEFA,Nguna,6.5 ,202,19.6 
+SHEFA,Emau,7.0 ,212,54.9 
+SHEFA,Malorua,1.8 ,1256,56.5 
+SHEFA,North Efate,4.0 ,591,29.5 
+SHEFA,Mele,8.0 ,1971,50.5 
+SHEFA,Ifira,31.6 ,281,48.5 
+SHEFA,Pango,13.6 ,684,53.8 
+SHEFA,Erakor,5.6 ,3516,50.6 
+SHEFA,Eratap,3.2 ,2565,54.4 
+SHEFA,Eton,2.5 ,1171,50.1 
+TAFEA,North Erromango,5.1 ,398,44.9 
+TAFEA,South Erromango,0.6 ,153,40.4 
+TAFEA,Aniwa,11.3 ,55,22.5 
+TAFEA,North Tanna,0.8 ,266,10.9 
+TAFEA,West Tanna,4.0 ,2113,30.3 
+TAFEA,Middle Bush Tanna,31.5 ,514,19.4 
+TAFEA,South West Tanna,13.2 ,223,7.5 
+TAFEA,Whitesands,31.4 ,816,27.7 
+TAFEA,South Tanna,22.9 ,287,43.0 
+TAFEA,Futuna,7.2 ,32,11.3 
+TAFEA,Aneityum,1.1 ,269,31.8 
