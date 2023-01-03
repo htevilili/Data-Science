@@ -1,4 +1,4 @@
-Date;meantemp;humidity;windspeedKmph;pressure;location
+date;meantemp;humidity;windspeedKmph;pressure;location
 2018-12-11;26;73;28;1009;Port-Vila
 2018-12-11;25;74;27;1009;Port-Vila
 2018-12-11;26;74;28;1010;Port-Vila
