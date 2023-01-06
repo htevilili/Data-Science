@@ -1,29 +1,29 @@
-Province,Area Council,Unemployment Rate,Employed,Labour Force Participation Rate
-TORBA,Torres,3.1 ,62,10.2 
-TORBA,Ureparapara,0.7 ,134,47.4 
-TORBA,Motalava,1.1 ,359,34.0 
-TORBA,Vanua Lava,9.8 ,776,44.8 
-TORBA,Mota,29.7 ,25,10.1 
-TORBA,Gaua,3.5 ,989,51.9 
-TORBA,Merelava, 0.01 ,179,46.7
-SANMA,Luganville,8.0 ,5304,51.8 
-SANMA,North West Santo,0.8 ,359,38.0 
-SANMA,North Santo,0.9 ,1647,55.3 
-SANMA,West Santo,0.2 ,946,54.2 
-SANMA,South Santo,1.9 ,2577,53.2 
-SANMA,East Santo,2.0 ,1901,55.3 
-SANMA,South East Santo,7.3 ,2398,56.6 
-SANMA,Canal - Fanafo,0.2 ,2756,80.7 
-SANMA,West Malo,1.5 ,1333,84.4 
-SANMA,East Malo,1.0 ,988,81.9 
-PENAMA,West Ambae,7.8 ,671,37.6 
-PENAMA,North Ambae,1.9 ,708,42.5 
-PENAMA,East Ambae,3.0 ,512,45.9 
-PENAMA,South Ambae,1.2 ,572,88.0 
-PENAMA,North Maewo,0.1 ,1378,84.1 
-PENAMA,South Maewo,0.2 ,533,50.6 
-PENAMA,North Pentecost,4.2 ,905,26.0 
-PENAMA,Central Pentecost 1,1.1 ,1315,66.6 
+Province,Area Council,Unemployment Rate,Employed,Labour Force Participation Rate,hyperlink
+TORBA,Torres,3.1 ,62,10.2,https://nsdp.vnso.gov.vu
+TORBA,Ureparapara,0.7 ,134,47.4,https://nsdp.vnso.gov.vu
+TORBA,Motalava,1.1 ,359,34.0,https://nsdp.vnso.gov.vu
+TORBA,Vanua Lava,9.8 ,776,44.8,https://nsdp.vnso.gov.vu
+TORBA,Mota,29.7 ,25,10.1,https://nsdp.vnso.gov.vu
+TORBA,Gaua,3.5 ,989,51.9,https://nsdp.vnso.gov.vu
+TORBA,Merelava, 0.01 ,179,46.,https://nsdp.vnso.gov.vu
+SANMA,Luganville,8.0 ,5304,51.8,https://nsdp.vnso.gov.vu
+SANMA,North West Santo,0.8 ,359,38.0,https://nsdp.vnso.gov.vu
+SANMA,North Santo,0.9 ,1647,55.3,https://nsdp.vnso.gov.vu
+SANMA,West Santo,0.2 ,946,54.2,https://nsdp.vnso.gov.vu
+SANMA,South Santo,1.9 ,2577,53.2,https://nsdp.vnso.gov.vu
+SANMA,East Santo,2.0 ,1901,55.3,https://nsdp.vnso.gov.vu
+SANMA,South East Santo,7.3 ,2398,56.6,https://nsdp.vnso.gov.vu
+SANMA,Canal - Fanafo,0.2 ,2756,80.7,https://nsdp.vnso.gov.vu
+SANMA,West Malo,1.5 ,1333,84.4,https://nsdp.vnso.gov.vu
+SANMA,East Malo,1.0 ,988,81.9,https://nsdp.vnso.gov.vu
+PENAMA,West Ambae,7.8 ,671,37.6,https://nsdp.vnso.gov.vu
+PENAMA,North Ambae,1.9 ,708,42.5,https://nsdp.vnso.gov.vu
+PENAMA,East Ambae,3.0 ,512,45.9,https://nsdp.vnso.gov.vu
+PENAMA,South Ambae,1.2 ,572,88.0,https://nsdp.vnso.gov.vu
+PENAMA,North Maewo,0.1 ,1378,84.1,https://nsdp.vnso.gov.vu
+PENAMA,South Maewo,0.2 ,533,50.6,https://nsdp.vnso.gov.vu
+PENAMA,North Pentecost,4.2 ,905,26.0,https://nsdp.vnso.gov.vu
+PENAMA,Central Pentecost 1,1.1 ,1315,66.6,https://nsdp.vnso.gov.vu
 PENAMA,Central Pentecost 2,0.3 ,632,22.7 
 PENAMA,South Pentecost,13.4 ,1076,38.9 
 MALAMPA,North West Malekula,1.1 ,2050,68.6 
